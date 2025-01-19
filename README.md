@@ -2,6 +2,6 @@
 learning git, githup 
 
 
-## Project to learn how yo use Github as a data analyst 
+## Project to learn how to use Github as a data analyst 
 
 
